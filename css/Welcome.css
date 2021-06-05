@@ -1,4 +1,10 @@
 body{
   background: #0C73B8;
-  
+}
+
+
+.title{
+  margin: 10px  auto;
+  width:  auto;
+  background: white;
 }
